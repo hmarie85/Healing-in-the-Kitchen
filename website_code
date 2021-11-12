@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<title><div id="Healing in the style_sheet_healing-kitchen"></title>
+		<link rel="stylesheet" href="style_sheet_healing-kitchen">
+	</head>
 
-<title><div id="wrapper"></title>
+<div id="wrapper">
   <section class="slideshow" id="js-header">
     
     <div class="slideshow__slide js-slider-home-slide is-current" data-slide="1">
@@ -100,9 +104,9 @@
 			</div>
 		</div>
 	</div>
-   
-    
+       
   </section>
+</div>
   
 <svg xmlns="http://www.w3.org/2000/svg">
     <symbol viewBox="0 0 18 18" id="arrow-next">
